@@ -53,4 +53,6 @@
     <string name="instinct_desc">As its name suggests, Team Instinct is about following and trusting your instincts. This group of trainers relies on their gut feelings when training and choosing Pokémon to battle, rather than relying on learning and knowledge. Led by Spark, the team\'s mascot is the legendary bird Zapdos.</string>
     <string name="mystic_desc">In Harry Potter terms, Team Mystic is Ravenclaw, meaning that its members are the trainers with the biggest brains. These trainers focus their efforts on science and evolving Pokémon. Members remain calm in battle and rely on their knowledge to win the day. It\'s about brains over brawn. Team Mystic\'s leader is Blanche and its mascot is the Articuno, a legendary ice bird.</string>
     <string name="valor_desc">Players who lean more toward Gryffindor will probably prefer Team Valor, which is all about strength and bravery. Led by Candela, this team focuses on being the very best. Training is key, as is bonding with each Pokémon. The team\'s mascot is the legendary fire bird Moltres.</string>
+    <string name="your_team_is">Your team is...</string>
+    <string name="share">SHARE</string>
 </resources>

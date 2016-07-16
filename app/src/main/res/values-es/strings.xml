@@ -52,7 +52,8 @@
     <string name="instinct_desc">Como su nombre sugiere, Equipo Instinct se trata de seguir y confiar en tus instintos. Este grupo de entrenadores se basa en sus presentimientos mientras entrenan y eligen un Pokemon para luchar, en lugar de basarse en conocimiento y aprendizaje. Dirijidos por Spark, la mascota del equipo es el pájaro legendario Zapdos.</string>
     <string name="mystic_desc">En terminos de Harry Potter, el equipo Mystic es Ravenclaw, lo cual significa que sus miembros son los entrenadores con mayor cerebro. Estos entrenadores enfocan sus esfuerzos en la ciencia y en evoucionar sus Pokémon.  Sus miembros permanecen calmos durante la batalla y se basan en su conocimiento para vencer. El equipo Mystic está liderado por Blanche y su ave legendaria es Articuno.</string>
     <string name="valor_desc">Los jugadores que se inclinen por Gryffindor van a preferir el equipo Valor probablemente, el cual se trata completamente de fuerza y coraje. Liderados por Candela, el equipo se enfoca en ser lo mejor de lo mejor. El entrenamiento es clave, como tambien el vinculo con cada Pokémon. La mascota del equipo es el ave legendaria Moltres.</string>
-
+    <string name="your_team_is">Tu equipo es...</string>
+    <string name="share">Comparte</string>
 
 
 </resources>
