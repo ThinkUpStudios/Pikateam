@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="start">Comenzar</string>
+    <string name="question1">Has encontrado un TM muy poderoso. ¿Qué haces?</string>
+    <string name="q1o1">Lo uso de inmediato sobre mi mejor pokemon, sin importar nada.</string>
+    <string name="q1o2">Lo guardo por si enfrento un enemigo que tenga la técnica como debilidad.</string>
+    <string name="q1o3">Lo vendo o lo descarto. No necesitamos ese tipo de cosas.</string>
+    <string name="question2">Tu Pokemon principal es Pikachu. Encuentras una Piedra Trueno. ¿Que haces?</string>
+    <string name="q2o1">Lo hago evolucionar. Es como se supone que sea.</string>
+    <string name="q2o2">Vendo la piedra. No nos hace falta.</string>
+    <string name="q2o3">Le pregunto a Pikachu para saber que desea hacer.</string>
+    <string name="question3">¡Un Charizard salvaje (nivel 60) ha aparecido!¿Qué haces?</string>
+    <string name="q3o1">Elijo mi mejor equipo Pokemon y lo enfrento solo.</string>
+    <string name="q3o2">Llamo a mis compañeros de equipo para vencerlo juntos.</string>
+    <string name="q3o3">Lo dejo ir. Prefiero capturar un Charmander y evolucionarlo yo mismo.</string>
+    <string name="question4">¿Qué deporte prefieres?</string>
+    <string name="q4o3">Ajedrez</string>
+    <string name="q4o2">Rugby</string>
+    <string name="q4o1">Tenis</string>
+    <string name="question5">¿Cuál es el Pokemon N° 121 (Primera Generación)?</string>
+    <string name="q5o1">Snorlax</string>
+    <string name="q5o2">Vulpix</string>
+    <string name="q5o3">Starmie</string>
+    <string name="question6">¿Cómo has respondido la pregunta anterior?</string>
+    <string name="q6o1">Ya sabía la respuesta.</string>
+    <string name="q6o2">Lo busqué en Google</string>
+    <string name="q6o3">Fue un intento al azar</string>
+    <string name="question7">Estás obligado a evolucionar a un Eevee. ¿Qué tipo de Piedra eliges?</string>
+    <string name="q7o1">Fuego</string>
+    <string name="q7o2">Trueno</string>
+    <string name="q7o3">Agua</string>
+    <string name="question8">Elíje una opción</string>
+    <string name="q8o1">Salto Bungee</string>
+    <string name="q8o2">Una noche en el cine</string>
+    <string name="q8o3">Realidad Virtual de mi juego favorito</string>
+    <string name="question9">¿Cuál es tu objetivo en Pokemon GO?</string>
+    <string name="q9o1">¡Atraparlos a todos!</string>
+    <string name="q9o2">¡Ser el entrenador mas poderoso del mundo!</string>
+    <string name="q9o3">¡Divertirme y hacer muchos amigos!</string>
+    <string name="question10">¿Cual es tu preferencia en vacaciones?</string>
+    <string name="q10o1">Playa, relajación y sol.</string>
+    <string name="q10o2">La montaña. Aventura y ejercicio.</string>
+    <string name="q10o3">El bosque. Naturaleza y paz mental.</string>
+    <string name="question11">Te encuentras encerrado en una habitación con 3 puertas.¿Cuál elijes?</string>
+    <string name="q11o1">Puerta 1: sales al bosque y debes encontrar tu camino a casa.</string>
+    <string name="q11o2">Puerta 2: te encuentras con un puente custodiado por guardias. Debes pelear para cruzar.</string>
+    <string name="q11o3">Puerta 3: te encuentras con un juego de ajedrez que deberás ganar para salir.</string>
+    <string name="question12">Último, pero no menos importante. ¿Qué pájaro legendario prefieres?</string>
+    <string name="q12o1">Moltres</string>
+    <string name="q12o2">Zapdos</string>
+    <string name="q12o3">Articuno</string>
+    <string name="instinct_desc">Como su nombre sugiere, Equipo Instinct se trata de seguir y confiar en tus instintos. Este grupo de entrenadores se basa en sus presentimientos mientras entrenan y eligen un Pokemon para luchar, en lugar de basarse en conocimiento y aprendizaje. Dirijidos por Spark, la mascota del equipo es el pájaro legendario Zapdos.</string>
+    <string name="mystic_desc">En terminos de Harry Potter, el equipo Mystic es Ravenclaw, lo cual significa que sus miembros son los entrenadores con mayor cerebro. Estos entrenadores enfocan sus esfuerzos en la ciencia y en evoucionar sus Pokémon.  Sus miembros permanecen calmos durante la batalla y se basan en su conocimiento para vencer. El equipo Mystic está liderado por Blanche y su ave legendaria es Articuno.</string>
+    <string name="valor_desc">Los jugadores que se inclinen por Gryffindor van a preferir el equipo Valor probablemente, el cual se trata completamente de fuerza y coraje. Liderados por Candela, el equipo se enfoca en ser lo mejor de lo mejor. El entrenamiento es clave, como tambien el vinculo con cada Pokémon. La mascota del equipo es el ave legendaria Moltres.</string>
+
+
+
+</resources>
