@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_start_up"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="ar.com.studios.thinkup.pikateam.StartUpActivity">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FAFAFA">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:src="@drawable/logo_app"
+        android:layout_alignParentTop="true"
+        android:id="@+id/logo"
+        android:cropToPadding="true"/>
+    <ImageView
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_below="@id/logo"
+        android:id="@+id/mystic_logo"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/mystic"/>
+    <ImageView
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:id="@+id/instinct_logo"
+        android:layout_below="@id/mystic_logo"
+        android:layout_marginRight="50dp"
+        android:layout_alignParentEnd="true"
+        android:src="@drawable/instinct"/>
+    <ImageView
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:id="@+id/valor_logo"
+        android:layout_marginLeft="50dp"
+        android:layout_below="@id/mystic_logo"
+        android:src="@drawable/valor"/>
+    <ImageView
+        android:layout_width="120dp"
+        android:id="@+id/go"
+        android:layout_height="120dp"
+        android:src="@drawable/go"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"/>
+
+</RelativeLayout>
+</android.support.constraint.ConstraintLayout>

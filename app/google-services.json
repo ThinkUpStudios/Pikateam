@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "999530994154",
+    "firebase_url": "https://pikateam-73d77.firebaseio.com",
+    "project_id": "pikateam-73d77",
+    "storage_bucket": "pikateam-73d77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999530994154:android:f594f52f1c0dfe6b",
+        "android_client_info": {
+          "package_name": "ar.com.studios.thinkup.pikateam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999530994154-q80doneja7le3cquhaoib5n1mtkads0s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ar.com.studios.thinkup.pikateam",
+            "certificate_hash": "95D1B1DD1D4392014FD95E8F80467B06DC3E6C61"
+          }
+        },
+        {
+          "client_id": "999530994154-2cvl2m4nv67nrkf3ek53d1bsgvk6u15g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFdSHir7g_vmF_rO0fdQh5Ax7tp1dJQX4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999530994154-2cvl2m4nv67nrkf3ek53d1bsgvk6u15g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

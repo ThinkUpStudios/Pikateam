@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_quiz_results"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="ar.com.studios.thinkup.pikateam.QuizResults">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/mystic"
+        android:id="@+id/winnerLogo"
+        android:layout_margin="30dp"
+        android:layout_marginBottom="100dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="20dp"
+        android:text="Mystic"
+        android:textSize="50dp"
+        android:layout_marginBottom="40dp"
+        android:textColor="#2E4595"
+        android:id="@+id/team"
+        android:layout_centerHorizontal="true"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="SHARE"
+        android:textSize="30dp"
+        android:layout_marginBottom="40dp"
+        android:textColor="#2E4595"
+
+        android:shadowRadius="1"
+        android:shadowColor="#AAAAFF"
+        android:id="@+id/share"
+        android:layout_centerHorizontal="true"/>
+</RelativeLayout>
+</android.support.constraint.ConstraintLayout>
