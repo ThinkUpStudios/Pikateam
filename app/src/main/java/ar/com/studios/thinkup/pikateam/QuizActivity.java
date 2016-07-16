@@ -8,8 +8,10 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
+import com.google.android.gms.ads.AdListener;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
+import com.google.android.gms.ads.InterstitialAd;
 
 import java.io.Serializable;
 import java.util.HashMap;
@@ -22,6 +24,7 @@ import ar.com.studios.thinkup.pikateam.utils.TeamEnum;
 public class QuizActivity extends AppCompatActivity {
 
     private Questions questions;
+
     private Question current;
     protected Map<Integer, TeamEnum> options;
     protected Map<TeamEnum, Integer> score;
@@ -33,6 +36,7 @@ public class QuizActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
         if (options == null) {
             options = new HashMap<>();
         }
@@ -58,16 +62,11 @@ public class QuizActivity extends AppCompatActivity {
             public void onClick(View v) {
                 if (options.containsKey(current.getNumeroPregunta())) {
                     if (questions.getQuestionsCount() - 1 > current.getNumeroPregunta()) {
-                        score.put(options.get(current.getNumeroPregunta()),(score.get(options.get(current.getNumeroPregunta()))+1));
+                        score.put(options.get(current.getNumeroPregunta()), (score.get(options.get(current.getNumeroPregunta())) + 1));
                         current = questions.getNextQuestion(current.getNumeroPregunta());
                         updateQuestion();
                     } else {
-                        Intent i = new Intent(QuizActivity.this, QuizResults.class);
-                        Bundle b = new Bundle();
-                        b.putSerializable("TEAM", getWinningTeam());
-                        i.putExtras(b);
-                        startActivity(i);
-                        finish();
+                        goToResults();
                     }
                 }
             }
@@ -75,6 +74,15 @@ public class QuizActivity extends AppCompatActivity {
         AdView mAdView = (AdView) findViewById(R.id.adView);
         AdRequest adRequest = new AdRequest.Builder().build();
         mAdView.loadAd(adRequest);
+    }
+
+    private void goToResults() {
+        Intent i = new Intent(QuizActivity.this, QuizResults.class);
+        Bundle b = new Bundle();
+        b.putSerializable("TEAM", getWinningTeam());
+        i.putExtras(b);
+        startActivity(i);
+        finish();
     }
 
     private Serializable getWinningTeam() {
@@ -163,4 +171,5 @@ public class QuizActivity extends AppCompatActivity {
         }
 
     }
+
 }

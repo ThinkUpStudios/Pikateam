@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+    <string name="start">START</string>
     <string name="question1">You found a powerful TM. What do you do?</string>
     <string name="q1o1">Use it to teach the technique to your best pokemon, no matter what.</string>
+    <string name="q1o2">Save it in case you face an enemy that has it as his weakness.</string>
     <string name="q1o3">Sell it or discard it. You don\'t want to force it.</string>
     <string name="question2">Your main Pokemon is Pikachu and you found a Thunder stone. What do you do?</string>
+    <string name="q2o1">Evolve him. It\'s the natural way of things.</string>
+    <string name="q2o2">Sell the stone. We don\'t need it.</string>
+    <string name="q2o3">Ask Pikachu what does he want.</string>
     <string name="question3">A wild Charizard (Lv 60) appears. What do you do?</string>
     <string name="q3o1">You pick your best Pokemon Team and Battle  him on your own.</string>
+    <string name="q3o2">You call your teammates and face him together.</string>
     <string name="q3o3">Let it go. You prefer to catch a charmander and evolve it yourself.</string>
     <string name="question4">Which sport do you prefer?</string>
     <string name="q4o3">Chess</string>
@@ -25,12 +32,25 @@
     <string name="q7o3">Water</string>
     <string name="question8">Pick One</string>
     <string name="q8o1">Bungee jumping</string>
+    <string name="q8o2">Night at the cinema</string>
+    <string name="q8o3">Virtual Reality of your favourite game</string>
+    <string name="question9">What\'s your goal on Pokemon GO?</string>
+    <string name="q9o1">Catch \'em all!</string>
+    <string name="q9o2">Be the most powerfull Pokemon trainer in the world!</string>
+    <string name="q9o3">Have fun and make a lot of friends!</string>
     <string name="question10">Vacations. What do you prefer?</string>
     <string name="q10o1">Beach, relax, sun and the ocean.</string>
     <string name="q10o2">The mountain. Adventure and excercise</string>
     <string name="q10o3">The woods. nature and peace of mind.</string>
     <string name="question11">You are locked in a room with 3 exits. Which of the following would you use to escape?</string>
+    <string name="q11o1">Door 1 takes you to the woods and you have to find your way home.</string>
     <string name="q11o2">Door 2 takes you to a bridge where you must fight the guards to scape.</string>
+    <string name="q11o3">Door 3 takes you to a chess game, you have to defet your opponent to go home</string>
     <string name="question12">Last but not least. Which legendary bird do you prefer?</string>
     <string name="q12o1">Moltres</string>
+    <string name="q12o2">Zapdos</string>
+    <string name="q12o3">Articuno</string>
+    <string name="instinct_desc">As its name suggests, Team Instinct is about following and trusting your instincts. This group of trainers relies on their gut feelings when training and choosing Pokémon to battle, rather than relying on learning and knowledge. Led by Spark, the team\'s mascot is the legendary bird Zapdos.</string>
+    <string name="mystic_desc">In Harry Potter terms, Team Mystic is Ravenclaw, meaning that its members are the trainers with the biggest brains. These trainers focus their efforts on science and evolving Pokémon. Members remain calm in battle and rely on their knowledge to win the day. This is also currently the most popular team to join. It\'s about brains over brawn. Team Mystic\'s leader is Blanche and its mascot is the Articuno, a legendary ice bird.</string>
+    <string name="valor_desc">Players who lean more toward Gryffindor will probably prefer Team Valor, which is all about strength and bravery. Led by Candela, this team focuses on being the very best. Training is key, as is bonding with each Pokémon. The team\'s mascot is the legendary fire bird Moltres.</string>
 </resources>

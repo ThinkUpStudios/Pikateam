@@ -21,6 +21,16 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_marginTop="20dp"
+        android:text="Your team is..."
+        android:textSize="20dp"
+        android:layout_marginBottom="40dp"
+        android:textColor="#2E4595"
+        android:layout_centerHorizontal="true"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="40dp"
         android:text="Mystic"
         android:textSize="50dp"
         android:layout_marginBottom="40dp"

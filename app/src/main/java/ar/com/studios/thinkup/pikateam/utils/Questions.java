@@ -7,8 +7,6 @@ import java.util.Vector;
 
 import ar.com.studios.thinkup.pikateam.R;
 
-import static ar.com.studios.thinkup.pikateam.R.drawable.go;
-
 /**
  * Created by Facundo on 15/07/2016.
  */
@@ -29,6 +27,8 @@ public class Questions {
         options.add(new Response(3,c.getString(R.string.q1o3),TeamEnum.INSTINCT));
         q.setAnswers(options);
         this.addQuestion(q);
+
+
         q = new Question();
         q.setNumeroPregunta(1);
         q.setQuestion(c.getString(R.string.question2));

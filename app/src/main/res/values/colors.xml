@@ -3,4 +3,7 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="articuno_blue">#0677EE</color>
+    <color name="moltres_red">#F3150A</color>
+    <color name="zapdos_yellow">#FBD208</color>
 </resources>
