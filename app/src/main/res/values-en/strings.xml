@@ -45,7 +45,7 @@
     <string name="question11">You are locked in a room with 3 exits. Which of the following would you use to escape?</string>
     <string name="q11o1">Door 1 takes you to the woods and you have to find your way home.</string>
     <string name="q11o2">Door 2 takes you to a bridge where you must fight the guards to scape.</string>
-    <string name="q11o3">Door 3 takes you to a chess game, you have to defet your opponent to go home</string>
+    <string name="q11o3">Door 3 takes you to a chess game, you have to defeat your opponent to go home</string>
     <string name="question12">Last but not least. Which legendary bird do you prefer?</string>
     <string name="q12o1">Moltres</string>
     <string name="q12o2">Zapdos</string>
