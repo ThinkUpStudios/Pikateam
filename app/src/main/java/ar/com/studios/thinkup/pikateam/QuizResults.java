@@ -116,7 +116,7 @@ public class QuizResults extends AppCompatActivity {
                     }
                     if (ShareDialog.canShow(ShareLinkContent.class)) {
                         ShareLinkContent content = new ShareLinkContent.Builder()
-                                .setContentUrl(Uri.parse("https://developers.facebook.com"))
+                                .setContentUrl(Uri.parse("https://play.google.com/store/apps/details?id=ar.com.studios.thinkup.pikateam"))
                                 .setImageUrl(url)
                                 .setContentTitle(title)
                                 .setContentDescription(contentLink)
