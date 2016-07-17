@@ -36,11 +36,11 @@
     <string name="q8o3">Virtual Reality of your favourite game</string>
     <string name="question9">What\'s your goal on Pokemon GO?</string>
     <string name="q9o1">Catch \'em all!</string>
-    <string name="q9o2">Be the most powerfull Pokemon trainer in the world!</string>
+    <string name="q9o2">Be the most powerful Pokemon trainer in the world!</string>
     <string name="q9o3">Have fun and make a lot of friends!</string>
     <string name="question10">Vacations. What do you prefer?</string>
     <string name="q10o1">Beach, relax, sun and the ocean.</string>
-    <string name="q10o2">The mountain. Adventure and excercise</string>
+    <string name="q10o2">The mountain. Adventure and exercise</string>
     <string name="q10o3">The woods. nature and peace of mind.</string>
     <string name="question11">You are locked in a room with 3 exits. Which of the following would you use to escape?</string>
     <string name="q11o1">Door 1 takes you to the woods and you have to find your way home.</string>
@@ -53,6 +53,6 @@
     <string name="instinct_desc">As its name suggests, Team Instinct is about following and trusting your instincts. This group of trainers relies on their gut feelings when training and choosing Pokémon to battle, rather than relying on learning and knowledge. Led by Spark, the team\'s mascot is the legendary bird Zapdos.</string>
     <string name="mystic_desc">In Harry Potter terms, Team Mystic is Ravenclaw, meaning that its members are the trainers with the biggest brains. These trainers focus their efforts on science and evolving Pokémon. Members remain calm in battle and rely on their knowledge to win the day. It\'s about brains over brawn. Team Mystic\'s leader is Blanche and its mascot is the Articuno, a legendary ice bird.</string>
     <string name="valor_desc">Players who lean more toward Gryffindor will probably prefer Team Valor, which is all about strength and bravery. Led by Candela, this team focuses on being the very best. Training is key, as is bonding with each Pokémon. The team\'s mascot is the legendary fire bird Moltres.</string>
-    <string name="your_team_is">Your team is...</string>
+    <string name="your_team_is">Your team is…</string>
     <string name="share">SHARE</string>
 </resources>

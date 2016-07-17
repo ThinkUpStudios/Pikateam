@@ -15,6 +15,7 @@ import com.facebook.FacebookCallback;
 import com.facebook.FacebookException;
 import com.facebook.FacebookSdk;
 import com.facebook.share.Sharer;
+import com.facebook.share.model.ShareHashtag;
 import com.facebook.share.model.ShareLinkContent;
 import com.facebook.share.widget.ShareDialog;
 
@@ -120,6 +121,7 @@ public class QuizResults extends AppCompatActivity {
                                 .setImageUrl(url)
                                 .setContentTitle(title)
                                 .setContentDescription(contentLink)
+                                .setShareHashtag(new ShareHashtag.Builder().setHashtag("#PokemonGO").build())
                                 .build();
 
                         shareDialog.show(content);

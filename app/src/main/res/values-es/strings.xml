@@ -9,7 +9,7 @@
     <string name="q2o1">Lo hago evolucionar. Es como se supone que sea.</string>
     <string name="q2o2">Vendo la piedra. No nos hace falta.</string>
     <string name="q2o3">Le pregunto a Pikachu para saber que desea hacer.</string>
-    <string name="question3">¡Un Charizard salvaje (nivel 60) ha aparecido!¿Qué haces?</string>
+    <string name="question3">¡Un Charizard salvaje (nivel 60) ha aparecido! ¿Qué haces?</string>
     <string name="q3o1">Elijo mi mejor equipo Pokemon y lo enfrento solo.</string>
     <string name="q3o2">Llamo a mis compañeros de equipo para vencerlo juntos.</string>
     <string name="q3o3">Lo dejo ir. Prefiero capturar un Charmander y evolucionarlo yo mismo.</string>
@@ -41,7 +41,7 @@
     <string name="q10o1">Playa, relajación y sol.</string>
     <string name="q10o2">La montaña. Aventura y ejercicio.</string>
     <string name="q10o3">El bosque. Naturaleza y paz mental.</string>
-    <string name="question11">Te encuentras encerrado en una habitación con 3 puertas.¿Cuál elijes?</string>
+    <string name="question11">Te encuentras encerrado en una habitación con 3 puertas.¿Cuál eliges?</string>
     <string name="q11o1">Puerta 1: sales al bosque y debes encontrar tu camino a casa.</string>
     <string name="q11o2">Puerta 2: te encuentras con un puente custodiado por guardias. Debes pelear para cruzar.</string>
     <string name="q11o3">Puerta 3: te encuentras con un juego de ajedrez que deberás ganar para salir.</string>
@@ -52,7 +52,7 @@
     <string name="instinct_desc">Como su nombre sugiere, Equipo Instinct se trata de seguir y confiar en tus instintos. Este grupo de entrenadores se basa en sus presentimientos mientras entrenan y eligen un Pokemon para luchar, en lugar de basarse en conocimiento y aprendizaje. Dirijidos por Spark, la mascota del equipo es el pájaro legendario Zapdos.</string>
     <string name="mystic_desc">En terminos de Harry Potter, el equipo Mystic es Ravenclaw, lo cual significa que sus miembros son los entrenadores con mayor cerebro. Estos entrenadores enfocan sus esfuerzos en la ciencia y en evoucionar sus Pokémon.  Sus miembros permanecen calmos durante la batalla y se basan en su conocimiento para vencer. El equipo Mystic está liderado por Blanche y su ave legendaria es Articuno.</string>
     <string name="valor_desc">Los jugadores que se inclinen por Gryffindor van a preferir el equipo Valor probablemente, el cual se trata completamente de fuerza y coraje. Liderados por Candela, el equipo se enfoca en ser lo mejor de lo mejor. El entrenamiento es clave, como tambien el vinculo con cada Pokémon. La mascota del equipo es el ave legendaria Moltres.</string>
-    <string name="your_team_is">Tu equipo es...</string>
+    <string name="your_team_is">Tu equipo es…</string>
     <string name="share">Comparte</string>
 
 
